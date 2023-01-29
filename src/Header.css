@@ -1,0 +1,15 @@
+.header__button__red{
+    color: red;
+    width: 120px;
+    height: 50px;
+    background-color: ghostwhite;
+    margin: 20px;
+}
+
+.header__button__green{
+    color: green;
+    width: 120px;
+    height: 50px;
+    background-color: ghostwhite;
+    margin: 20px;
+}
